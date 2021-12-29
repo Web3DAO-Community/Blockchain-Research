@@ -2,6 +2,16 @@
 
 This repository consists of blockchain research resources that will help you gain more knowledge in blockchain development. See blockchain roadmap here and blockchain learning resources here. Head to our Discord WEB3DAO community to collaborate with other people.
 
+# Table of Content
+- [Blockchain-Research](#blockchain-research)
+- [Research Paper Collections/Research Groups](#research-paper-collectionsresearch-groups)
+- [Group organization and voting](#group-organization-and-voting)
+- [Scaling Solutions](#scaling-solutions)
+- [Podcasts/Online resources such as videos](#podcastsonline-resources-such-as-videos)
+- [Ethereum Specific](#ethereum-specific)
+- [PoW/Bitcoin](#powbitcoin)
+- [Various Resources](#various-resources)
+
 # Research Paper Collections/Research Groups
 
 | Title | Content |
